@@ -1,0 +1,323 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "answer": "Paris",
+      "explanation": "Paris has been the capital of France since the 10th century."
+    },
+    {
+      "id": 2,
+      "question": "What color do you get when you mix red and white?",
+      "options": ["Orange", "Pink", "Purple", "Peach"],
+      "answer": "Pink",
+      "explanation": "Mixing red and white pigments produces pink."
+    },
+    {
+      "id": 3,
+      "question": "How many legs does a spider have?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "8",
+      "explanation": "Spiders are arachnids and always have 8 legs."
+    },
+    {
+      "id": 4,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+      "answer": "Mars",
+      "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+    },
+    {
+      "id": 5,
+      "question": "What is 12 x 12?",
+      "options": ["132", "144", "124", "148"],
+      "answer": "144",
+      "explanation": "12 multiplied by 12 equals 144."
+    },
+    {
+      "id": 6,
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": "Pacific",
+      "explanation": "The Pacific Ocean covers about 63 million square miles."
+    },
+    {
+      "id": 7,
+      "question": "How many days are in a leap year?",
+      "options": ["364", "365", "366", "367"],
+      "answer": "366",
+      "explanation": "A leap year has 366 days — February gets an extra day."
+    },
+    {
+      "id": 8,
+      "question": "What gas do plants absorb from the air?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Carbon Dioxide",
+      "explanation": "Plants absorb CO2 for photosynthesis."
+    },
+    {
+      "id": 9,
+      "question": "Which animal is the tallest in the world?",
+      "options": ["Elephant", "Giraffe", "Camel", "Horse"],
+      "answer": "Giraffe",
+      "explanation": "Giraffes can reach heights of up to 6 meters."
+    },
+    {
+      "id": 10,
+      "question": "What is the boiling point of water?",
+      "options": ["90°C", "95°C", "100°C", "110°C"],
+      "answer": "100°C",
+      "explanation": "Water boils at 100 degrees Celsius at standard pressure."
+    },
+    {
+      "id": 11,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Botticelli"],
+      "answer": "Leonardo da Vinci",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa around 1503–1519."
+    },
+    {
+      "id": 12,
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "explanation": "Earth has 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, South America."
+    },
+    {
+      "id": 13,
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": "2",
+      "explanation": "2 is the smallest and the only even prime number."
+    },
+    {
+      "id": 14,
+      "question": "Which instrument has 88 keys?",
+      "options": ["Organ", "Piano", "Accordion", "Harpsichord"],
+      "answer": "Piano",
+      "explanation": "A standard piano has 88 keys (52 white and 36 black)."
+    },
+    {
+      "id": 15,
+      "question": "What is H2O commonly known as?",
+      "options": ["Salt", "Air", "Water", "Oxygen"],
+      "answer": "Water",
+      "explanation": "H2O is the chemical formula for water — two hydrogen atoms and one oxygen atom."
+    }
+  ],
+  "medium": [
+    {
+      "id": 1,
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondria generate most of the cell's ATP through cellular respiration."
+    },
+    {
+      "id": 2,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare",
+      "explanation": "Romeo and Juliet was written by William Shakespeare around 1594–1596."
+    },
+    {
+      "id": 3,
+      "question": "What is the speed of light in vacuum?",
+      "options": ["2.8 × 10⁸ m/s", "3.0 × 10⁸ m/s", "3.5 × 10⁸ m/s", "2.5 × 10⁸ m/s"],
+      "answer": "3.0 × 10⁸ m/s",
+      "explanation": "The speed of light is approximately 299,792,458 meters per second."
+    },
+    {
+      "id": 4,
+      "question": "Which element has the atomic number 79?",
+      "options": ["Silver", "Platinum", "Gold", "Copper"],
+      "answer": "Gold",
+      "explanation": "Gold (Au) has atomic number 79 on the periodic table."
+    },
+    {
+      "id": 5,
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile",
+      "explanation": "The Nile River is approximately 6,650 km long."
+    },
+    {
+      "id": 6,
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "answer": "1945",
+      "explanation": "World War II ended in 1945 — in Europe on May 8 and in the Pacific on September 2."
+    },
+    {
+      "id": 7,
+      "question": "What programming language is known as the 'mother of all languages'?",
+      "options": ["Fortran", "COBOL", "C", "Assembly"],
+      "answer": "C",
+      "explanation": "C is often called the mother of modern programming languages due to its widespread influence."
+    },
+    {
+      "id": 8,
+      "question": "What is the chemical symbol for Iron?",
+      "options": ["Ir", "In", "Fe", "Fn"],
+      "answer": "Fe",
+      "explanation": "Iron's chemical symbol Fe comes from the Latin word 'ferrum'."
+    },
+    {
+      "id": 9,
+      "question": "Which law states that energy cannot be created or destroyed?",
+      "options": ["Newton's 1st Law", "Ohm's Law", "1st Law of Thermodynamics", "Boyle's Law"],
+      "answer": "1st Law of Thermodynamics",
+      "explanation": "The First Law of Thermodynamics is the law of conservation of energy."
+    },
+    {
+      "id": 10,
+      "question": "What does CPU stand for?",
+      "options": ["Central Power Unit", "Computer Processing Unit", "Central Processing Unit", "Core Processing Unit"],
+      "answer": "Central Processing Unit",
+      "explanation": "CPU stands for Central Processing Unit — the brain of a computer."
+    },
+    {
+      "id": 11,
+      "question": "What is the square root of 256?",
+      "options": ["14", "16", "18", "12"],
+      "answer": "16",
+      "explanation": "16 × 16 = 256, so √256 = 16."
+    },
+    {
+      "id": 12,
+      "question": "Which country invented the printing press?",
+      "options": ["China", "Germany", "England", "Italy"],
+      "answer": "Germany",
+      "explanation": "Johannes Gutenberg of Germany invented the movable-type printing press around 1440."
+    },
+    {
+      "id": 13,
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Lungs"],
+      "answer": "Skin",
+      "explanation": "Skin is the largest organ, covering about 2 square meters in adults."
+    },
+    {
+      "id": 14,
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Saturn",
+      "explanation": "Saturn has 146 confirmed moons, more than any other planet."
+    },
+    {
+      "id": 15,
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Baht"],
+      "answer": "Yen",
+      "explanation": "The Japanese Yen (¥) is Japan's official currency."
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "question": "What is the Schrödinger equation used for?",
+      "options": ["Describing chemical bonds", "Calculating gravitational pull", "Describing quantum states of particles", "Measuring electromagnetic fields"],
+      "answer": "Describing quantum states of particles",
+      "explanation": "The Schrödinger equation is the fundamental equation of quantum mechanics describing how quantum states evolve."
+    },
+    {
+      "id": 2,
+      "question": "In computer science, what does 'Big O notation' describe?",
+      "options": ["Memory architecture", "Algorithm complexity and scalability", "Network protocols", "Object-oriented design patterns"],
+      "answer": "Algorithm complexity and scalability",
+      "explanation": "Big O notation describes the worst-case time or space complexity of an algorithm."
+    },
+    {
+      "id": 3,
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "options": ["Energy equals mass times c²", "You cannot simultaneously know exact position and momentum of a particle", "Light travels at constant speed", "Entropy always increases"],
+      "answer": "You cannot simultaneously know exact position and momentum of a particle",
+      "explanation": "The Heisenberg Uncertainty Principle states Δx·Δp ≥ ħ/2."
+    },
+    {
+      "id": 4,
+      "question": "Which data structure uses LIFO (Last In First Out)?",
+      "options": ["Queue", "Heap", "Stack", "Tree"],
+      "answer": "Stack",
+      "explanation": "A Stack follows LIFO — the last element pushed in is the first to be popped out."
+    },
+    {
+      "id": 5,
+      "question": "What theorem proves that no consistent axiomatic system can prove all mathematical truths?",
+      "options": ["Fermat's Last Theorem", "Gödel's Incompleteness Theorem", "Cantor's Theorem", "Turing's Halting Problem"],
+      "answer": "Gödel's Incompleteness Theorem",
+      "explanation": "Gödel's Incompleteness Theorem shows that any sufficiently powerful formal system has true but unprovable statements."
+    },
+    {
+      "id": 6,
+      "question": "In cryptography, what is a 'hash collision'?",
+      "options": ["Two different passwords match", "Two different inputs produce the same hash output", "Encryption key is compromised", "SSL certificate mismatch"],
+      "answer": "Two different inputs produce the same hash output",
+      "explanation": "A hash collision occurs when two distinct inputs produce identical hash values."
+    },
+    {
+      "id": 7,
+      "question": "What does DNA stand for?",
+      "options": ["Deoxyribose Nucleic Acid", "Deoxyribonucleic Acid", "Dinucleotide Acid", "Denatured Nucleic Acid"],
+      "answer": "Deoxyribonucleic Acid",
+      "explanation": "DNA stands for Deoxyribonucleic Acid — the molecule carrying genetic information."
+    },
+    {
+      "id": 8,
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(n²)", "O(log n)", "O(n log n)"],
+      "answer": "O(log n)",
+      "explanation": "Binary search halves the search space each iteration, giving O(log n) complexity."
+    },
+    {
+      "id": 9,
+      "question": "Which mathematical concept is the foundation of public-key cryptography?",
+      "options": ["Matrix multiplication", "Discrete logarithm and prime factorization", "Fourier transforms", "Differential equations"],
+      "answer": "Discrete logarithm and prime factorization",
+      "explanation": "RSA encryption relies on the computational difficulty of factoring large prime products."
+    },
+    {
+      "id": 10,
+      "question": "What does 'ACID' stand for in database systems?",
+      "options": ["Atomic, Consistent, Isolated, Durable", "Accessible, Consistent, Integrated, Durable", "Atomic, Complete, Isolated, Dynamic", "Accessible, Complete, Integrated, Dynamic"],
+      "answer": "Atomic, Consistent, Isolated, Durable",
+      "explanation": "ACID properties ensure reliable database transactions."
+    },
+    {
+      "id": 11,
+      "question": "What is the Doppler Effect?",
+      "options": ["Light bending around massive objects", "Change in frequency of a wave relative to a moving observer", "Sound traveling faster in denser mediums", "Interference of two coherent waves"],
+      "answer": "Change in frequency of a wave relative to a moving observer",
+      "explanation": "The Doppler Effect describes how the observed frequency changes when source or observer moves."
+    },
+    {
+      "id": 12,
+      "question": "In neural networks, what is 'backpropagation'?",
+      "options": ["Forward pass through the network", "Process of adjusting weights using gradient descent", "Initializing network weights", "Normalizing input data"],
+      "answer": "Process of adjusting weights using gradient descent",
+      "explanation": "Backpropagation calculates gradients and adjusts weights to minimize loss."
+    },
+    {
+      "id": 13,
+      "question": "What is the P vs NP problem?",
+      "options": ["Whether prime numbers are infinite", "Whether every problem verifiable in polynomial time is also solvable in polynomial time", "Comparison of parallel vs sequential processing", "Probability distributions in networks"],
+      "answer": "Whether every problem verifiable in polynomial time is also solvable in polynomial time",
+      "explanation": "P vs NP is one of the Millennium Prize Problems — whether P equals NP remains unsolved."
+    },
+    {
+      "id": 14,
+      "question": "Which concept explains why matter doesn't collapse into itself due to electrons?",
+      "options": ["Heisenberg Uncertainty", "Pauli Exclusion Principle", "Planck's Constant", "Coulomb's Law"],
+      "answer": "Pauli Exclusion Principle",
+      "explanation": "The Pauli Exclusion Principle states that no two fermions can occupy the same quantum state."
+    },
+    {
+      "id": 15,
+      "question": "What does 'Byzantine fault tolerance' mean in distributed systems?",
+      "options": ["System handles network delays", "System tolerates nodes sending conflicting/arbitrary data", "System handles memory overflow", "System tolerates partial shutdowns"],
+      "answer": "System tolerates nodes sending conflicting/arbitrary data",
+      "explanation": "Byzantine fault tolerance handles scenarios where nodes may send incorrect or malicious data."
+    }
+  ]
+}
