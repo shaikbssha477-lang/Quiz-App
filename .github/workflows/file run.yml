@@ -1,10 +1,14 @@
-name: CEREBRO CI
+name: CEREBRO CI Pipeline
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [main]
   pull_request:
-    branches: [ main, master ]
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   test:
@@ -14,18 +18,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install Tkinter (Linux dependency)
+      - name: Install system dependencies (tkinter for headless CI)
         run: |
           sudo apt-get update
           sudo apt-get install -y python3-tk
 
-      - name: Verify Python version
-        run: python --version
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
 
-      - name: Run Unit Tests
-        run: python Cerebro quiz.py .
+      - name: Run unit tests (headless — no display needed)
+        run: python cerebro_quiz.py --test
