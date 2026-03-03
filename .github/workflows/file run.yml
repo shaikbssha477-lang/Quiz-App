@@ -32,4 +32,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run unit tests (headless — no display needed)
-        run: python cerebro_quiz.py --test
+        run: python cerebro_quiz.py--test
