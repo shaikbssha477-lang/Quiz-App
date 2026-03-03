@@ -28,4 +28,4 @@ jobs:
         run: python --version
 
       - name: Run Unit Tests
-        run: python cerebro_quiz.py --test
+        run: python Cerebro quiz.py 
