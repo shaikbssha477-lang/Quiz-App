@@ -29,7 +29,7 @@ jobs:
           sudo apt-get install -y python3-tk
 
       - name: Install Python dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r Readme.txt
 
       - name: Run unit tests (headless — no display needed)
         run: python cerebro_quiz.py--test
